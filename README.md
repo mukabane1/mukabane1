@@ -38,8 +38,8 @@ Hi — I’m Faith Mukabane
 
 **Profile view counter & followers**
 ```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=faithmmukabane&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/faithmmukabane?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=mmukabane1&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/mmukabane1?label=Follow&style=social)
 
 <!-- Overall stats -->
 ![Faith's GitHub stats](https://github.com/mukabane1/mukabane1&show_icons=true&theme=default)
