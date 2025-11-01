@@ -1,5 +1,5 @@
 
-Hi — I’m Faith Mmukabane
+Hi — I’m Faith Mukabane
 
 **Electrical & Electronic Engineering student** with a passion for **creating software that solves real-world problems**. I combine hardware knowledge and software skills to build practical, scalable solutions.
 
@@ -42,11 +42,11 @@ Hi — I’m Faith Mmukabane
 ![GitHub followers](https://img.shields.io/github/followers/faithmmukabane?label=Follow&style=social)
 
 <!-- Overall stats -->
-![Faith's GitHub stats](https://github-readme-stats.vercel.app/api?username=faithmmukabane&show_icons=true&theme=default)
+![Faith's GitHub stats](https://github.com/mukabane1/mukabane1&show_icons=true&theme=default)
 
 <!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faithmmukabane&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmukabane1&layout=compact)
 
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=faithmmukabane&theme=github)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmukabane1&theme=github)
 
