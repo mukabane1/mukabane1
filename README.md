@@ -37,16 +37,8 @@ Hi — I’m Faith Mukabane
 > Replace `faithmmukabane` below with your real GitHub username if different.
 
 **Profile view counter & followers**
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=mmukabane1&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/mmukabane1?label=Follow&style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukabane1&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukabane1&layout=compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukabane1&theme=github)
 
-<!-- Overall stats -->
-![Faith's GitHub stats](https://github.com/mukabane1/mukabane1&show_icons=true&theme=default)
-
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmukabane1&layout=compact)
-
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmukabane1&theme=github)
 
