@@ -36,9 +36,13 @@ Hi — I’m Faith Mukabane
 
 > Replace `faithmmukabane` below with your real GitHub username if different.
 
+
 **Profile view counter & followers**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukabane1&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukabane1&layout=compact)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukabane1&theme=github)
 
 
